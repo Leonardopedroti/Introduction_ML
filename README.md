@@ -12,7 +12,7 @@ All content generated through this challenge is merely personal learning.
 </p>
 <img src="https://img.shields.io/badge/Release%20Date-undetermined-yellow"/>
 
-# Autores
+# Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Leticia Pires</sub>]([https://github.com/letpires]) | 
+| [<img src="[https://avatars.githubusercontent.com/u/17139516?v=4]" width=115><br><sub>Leticia Pires</sub>]([https://github.com/letpires]) | 
 | :---: | 
