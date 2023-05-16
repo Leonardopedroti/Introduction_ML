@@ -13,5 +13,5 @@ All content generated through this challenge is merely personal learning.
 <img src="https://img.shields.io/badge/Release%20Date-undetermined-yellow"/>
 
 # Autor
- width=115><br><sub>Leticia Pires</sub>]([https://github.com/letpires]) 
+ ([https://github.com/letpires]) 
 | :---: | 
