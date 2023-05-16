@@ -16,4 +16,4 @@ All content generated through this challenge is merely personal learning.
  https://github.com/letpires 
 | :---: | 
 
-![Snake animation](https://github.com/letpires/letpires/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leonardopedroti/introduction_ML/blob/output/github-contribution-grid-snake.svg)
