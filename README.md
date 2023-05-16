@@ -12,6 +12,6 @@ All content generated through this challenge is merely personal learning.
 </p>
 <img src="https://img.shields.io/badge/Release%20Date-undetermined-yellow"/>
 
-# Autor
- ([https://github.com/letpires]) 
+# Author(a)
+ https://github.com/letpires 
 | :---: | 
