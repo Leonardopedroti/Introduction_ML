@@ -15,3 +15,5 @@ All content generated through this challenge is merely personal learning.
 # Author(a)
  https://github.com/letpires 
 | :---: | 
+
+![Snake animation](https://github.com/letpires/letpires/blob/output/github-contribution-grid-snake.svg)
